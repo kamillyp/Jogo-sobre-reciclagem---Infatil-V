@@ -34,12 +34,6 @@ python3 -m http.server 8000
 # acesse http://localhost:8000
 ```
 
-## Publicar no GitHub Pages
-
-1. Envie os arquivos para um repositório no GitHub
-2. Vá em **Settings → Pages**
-3. Em **Source**, escolha **Deploy from a branch**, selecione `main` e a pasta `/ (root)`
-4. Salve e aguarde cerca de 1 minuto. O link do jogo aparece na própria tela
 
 ## Observações
 
